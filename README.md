@@ -12,6 +12,9 @@ $ leafpad sum1ton.c &
 <p align="center">
   <img width="1000" height="" src="/images/1.png">
 </p>
+<p align="center">
+  <img width="1000" height="" src="/images/11.png">
+</p>
 
 - Now we Compile the C program `sum1ton.c` using the GCC compiler and it generates an executable named `a.out`.
 - `./a.out`command executes the program we compiled.
