@@ -1,6 +1,7 @@
 # VSDSquadron Mini Research Internship
 
-## Compile C Program using RISC-V Compiler
+
+### Compile C Program using RISC-V Compiler
 
 
 - If leafpad isn't installed, install it using the command `sudo apt install leafpad`
